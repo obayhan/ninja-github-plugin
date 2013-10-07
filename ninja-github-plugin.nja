@@ -1,0 +1,7 @@
+{
+  "venv": "", 
+  "project-type": "NINJA-Plugin-Project", 
+  "name": "ninja-github-plugin", 
+  "license": "New BSD License", 
+  "description": ""
+}

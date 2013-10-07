@@ -1,0 +1,1 @@
+from ninja_github_plugin import GithubPlugin

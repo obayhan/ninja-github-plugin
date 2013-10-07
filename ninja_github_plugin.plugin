@@ -1,0 +1,7 @@
+{
+  "url": "https://github.com/obayhan/ninja-github-plugin", 
+  "version": "0.1", 
+  "class": "GithubPlugin", 
+  "module": "ninja_github_plugin", 
+  "authors": "Mehmet \u00d6zg\u00fcr Bayhan"
+}
